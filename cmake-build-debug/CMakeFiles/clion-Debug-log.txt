@@ -1,1 +1,0 @@
-CMakeLists.txt が /Users/mtakagi/Desktop/metal-cpp-test に見つかりません CMakeLists.txt の選択
